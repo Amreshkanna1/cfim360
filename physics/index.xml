@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics on CFIM360°</title>
+    <link>http://localhost:1313/physics/</link>
+    <description>Recent content in Physics on CFIM360°</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cognitive Physics</title>
+      <link>http://localhost:1313/physics/cognitive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics/cognitive/</guid>
+      <description>&lt;h2 id=&#34;identity&#34;&gt;Identity&lt;/h2&gt;&#xA;&lt;p&gt;Cognitive Physics defines cognition as a &lt;strong&gt;physical system&lt;/strong&gt;, not as a mental faculty, belief structure, or information-processing metaphor.&lt;/p&gt;&#xA;&lt;p&gt;It studies cognition as &lt;strong&gt;motion, state transition, and constraint&lt;/strong&gt; within an internal system, governed by lawful behavior rather than subjective interpretation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-this-physics-addresses&#34;&gt;What This Physics Addresses&lt;/h2&gt;&#xA;&lt;p&gt;Cognitive Physics focuses on:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;how cognitive states form, persist, and dissolve&lt;/li&gt;&#xA;&lt;li&gt;how thought moves under load, latency, and coherence&lt;/li&gt;&#xA;&lt;li&gt;how reasoning changes shape under internal pressure&lt;/li&gt;&#xA;&lt;li&gt;how cognition behaves when decoupled from emotion and body assumptions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Cognition here is not treated as intelligence, awareness, or decision-making.&lt;br&gt;&#xA;It is treated as &lt;strong&gt;system behavior&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emotional Physics Volume 1</title>
+      <link>http://localhost:1313/physics/emotional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics/emotional/</guid>
+      <description>&lt;div class=&#34;doc-cover&#34;&gt;&#xD;&#xA;&lt;img&#xD;&#xA;  src=&#34;http://localhost:1313/physics/emotional/assets/EP-Book-cover.webp&#34;&#xD;&#xA;  alt=&#34;Emotional Physics cover image&#34;&#xD;&#xA;  class=&#34;doc-cover-image&#34;&#xD;&#xA;/&gt;&#xD;&#xA;&lt;h2 id=&#34;identity&#34;&gt;Identity&lt;/h2&gt;&#xA;&lt;p&gt;This page contains &lt;strong&gt;Emotional Physics — Volume 1&lt;/strong&gt;, released as a &lt;strong&gt;public-safe canonical text&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This volume defines the &lt;strong&gt;laws, variables, and structural foundations&lt;/strong&gt; of Emotional Physics.&lt;br&gt;&#xA;It establishes the field without disclosing execution, control logic, or operational systems.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;scope-of-disclosure&#34;&gt;Scope of Disclosure&lt;/h3&gt;&#xA;&lt;p&gt;This volume &lt;strong&gt;includes&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Foundational laws and principles&lt;/li&gt;&#xA;&lt;li&gt;Formal variables and notation&lt;/li&gt;&#xA;&lt;li&gt;Structural models of emotional dynamics&lt;/li&gt;&#xA;&lt;li&gt;Conceptual coherence of the field&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This volume &lt;strong&gt;does not include&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inner Physics</title>
+      <link>http://localhost:1313/physics/inner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics/inner/</guid>
+      <description>&lt;h2 id=&#34;identity&#34;&gt;Identity&lt;/h2&gt;&#xA;&lt;p&gt;Inner Physics defines the &lt;strong&gt;integrated behavior of internal systems&lt;/strong&gt; when emotional, cognitive, and somatic dynamics operate simultaneously.&lt;/p&gt;&#xA;&lt;p&gt;It is not a new physics added on top of others.&lt;br&gt;&#xA;It is the &lt;strong&gt;coherence surface&lt;/strong&gt; where all internal physical layers interact.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-inner-physics-addresses&#34;&gt;What Inner Physics Addresses&lt;/h2&gt;&#xA;&lt;p&gt;Inner Physics focuses on:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cross-layer state interaction&lt;/li&gt;&#xA;&lt;li&gt;coherence and breakdown across systems&lt;/li&gt;&#xA;&lt;li&gt;stability under simultaneous load&lt;/li&gt;&#xA;&lt;li&gt;transition behavior when layers conflict&lt;/li&gt;&#xA;&lt;li&gt;system-level equilibrium without dominance of any single layer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It observes &lt;strong&gt;how systems behave together&lt;/strong&gt;, not how they behave in isolation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Somatic Physics</title>
+      <link>http://localhost:1313/physics/somatic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics/somatic/</guid>
+      <description>&lt;h2 id=&#34;identity&#34;&gt;Identity&lt;/h2&gt;&#xA;&lt;p&gt;Somatic Physics defines the body as a &lt;strong&gt;physical system of signals&lt;/strong&gt;, not as a biological object, health domain, or therapeutic target.&lt;/p&gt;&#xA;&lt;p&gt;It studies how internal signals originate, propagate, accumulate, and discharge within the body as &lt;strong&gt;lawful physical behavior&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-this-physics-addresses&#34;&gt;What This Physics Addresses&lt;/h2&gt;&#xA;&lt;p&gt;Somatic Physics focuses on:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;signal accumulation and release&lt;/li&gt;&#xA;&lt;li&gt;physical latency and load&lt;/li&gt;&#xA;&lt;li&gt;internal pressure without conscious mediation&lt;/li&gt;&#xA;&lt;li&gt;non-verbal state persistence&lt;/li&gt;&#xA;&lt;li&gt;body-level constraint before cognition or emotion intervenes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The body here is not symbolic.&lt;br&gt;&#xA;It is &lt;strong&gt;mechanical, temporal, and responsive&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
