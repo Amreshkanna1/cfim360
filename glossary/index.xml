@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glossary on CFIM360°</title>
+    <link>http://localhost:1313/glossary/</link>
+    <description>Recent content in Glossary on CFIM360°</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/glossary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Action</title>
+      <link>http://localhost:1313/glossary/action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/action/</guid>
+      <description>&lt;h2 id=&#34;node-identity&#34;&gt;Node Identity&lt;/h2&gt;&#xA;&lt;p&gt;This node defines &lt;strong&gt;how action is classified within CFIM360.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The terms here do not describe behavior, steps, or execution sequences.&#xA;They describe &lt;strong&gt;what kind of action something is,&lt;/strong&gt; independent of how or when it is used.&lt;/p&gt;&#xA;&lt;p&gt;This node exists to prevent category confusion.&#xA;It separates doing from governing, evaluating from structuring, and signaling from directing.&lt;/p&gt;&#xA;&lt;p&gt;Terms in this node define &lt;strong&gt;action semantics,&lt;/strong&gt; not action itself.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;glossary-classification-system&#34;&gt;Glossary Classification System&lt;/h2&gt;&#xA;&lt;p&gt;Glossary terms in CFIM360 are not uniform.&#xA;Each term carries a suffix that declares &lt;strong&gt;how it should be read.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Core</title>
+      <link>http://localhost:1313/glossary/core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/core/</guid>
+      <description>&lt;h2 id=&#34;node-identity&#34;&gt;Node Identity&lt;/h2&gt;&#xA;&lt;p&gt;This node holds the foundational vocabulary of CFIM360.&lt;/p&gt;&#xA;&lt;p&gt;The terms here do not describe frameworks, actions, or outcomes.&#xA;They describe &lt;strong&gt;how reality is structured, perceived, and generated&lt;/strong&gt; at the deepest level of the system.&lt;/p&gt;&#xA;&lt;p&gt;These words operate &lt;strong&gt;prior to interpretation.&lt;/strong&gt;&#xA;They are used to name field-level structures that were previously unnamed or inaccessible through existing language.&lt;/p&gt;&#xA;&lt;p&gt;Meanings in this node do not shift by usage.&#xA;They remain invariant across all contexts in CFIM360.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Origin</title>
+      <link>http://localhost:1313/glossary/origin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/origin/</guid>
+      <description>&lt;h2 id=&#34;node-identity&#34;&gt;Node Identity&lt;/h2&gt;&#xA;&lt;p&gt;This node holds terms that describe &lt;strong&gt;where meaning, authority, and reference come from.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The terms here do not narrate history or explain influence.&#xA;They describe &lt;strong&gt;source, continuity,&lt;/strong&gt; and &lt;strong&gt;irreversibility&lt;/strong&gt; as structural facts of a system.&lt;/p&gt;&#xA;&lt;p&gt;Origin in CFIM is not a story about beginnings.&#xA;It is a declaration of &lt;strong&gt;where reference is anchored&lt;/strong&gt; and how it remains intact over time.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;glossary-classification-system&#34;&gt;Glossary Classification System&lt;/h2&gt;&#xA;&lt;p&gt;Glossary terms in CFIM360 are not uniform.&#xA;Each term carries a suffix that declares &lt;strong&gt;how it should be read.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Relations</title>
+      <link>http://localhost:1313/glossary/relations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/relations/</guid>
+      <description>&lt;h2 id=&#34;node-identity&#34;&gt;Node Identity&lt;/h2&gt;&#xA;&lt;p&gt;This node holds terms that describe &lt;strong&gt;what exists between systems.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The terms here do not describe internal states, intentions, or individual attributes.&#xA;They describe &lt;strong&gt;fields of interaction, mutual influence, and structural connection&lt;/strong&gt; that arise only in relation.&lt;/p&gt;&#xA;&lt;p&gt;Nothing in this node has meaning in isolation.&#xA;Each term refers to a configuration that emerges &lt;strong&gt;only when systems meet.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;glossary-classification-system&#34;&gt;Glossary Classification System&lt;/h2&gt;&#xA;&lt;p&gt;Glossary terms in CFIM360 are not uniform.&#xA;Each term carries a suffix that declares &lt;strong&gt;how it should be read.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Signal</title>
+      <link>http://localhost:1313/glossary/signal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/signal/</guid>
+      <description>&lt;h2 id=&#34;node-identity&#34;&gt;Node Identity&lt;/h2&gt;&#xA;&lt;p&gt;This node holds terms that describe &lt;strong&gt;what can be observed versus what generates.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The terms here do not explain causality, control, or measurement.&#xA;They describe &lt;strong&gt;disclosure, visibility,&lt;/strong&gt; and *&lt;em&gt;legibility&lt;/em&gt; as they appear to an observer.&lt;/p&gt;&#xA;&lt;p&gt;A signal is not an instruction and not a trigger.&#xA;It is a surface expression of a deeper substrate that may remain unseen.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;glossary-classification-system&#34;&gt;Glossary Classification System&lt;/h2&gt;&#xA;&lt;p&gt;Glossary terms in CFIM360 are not uniform.&#xA;Each term carries a suffix that declares &lt;strong&gt;how it should be read.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>States</title>
+      <link>http://localhost:1313/glossary/states/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/states/</guid>
+      <description>&lt;h2 id=&#34;node-identity&#34;&gt;Node Identity&lt;/h2&gt;&#xA;&lt;p&gt;This node holds terms that describe &lt;strong&gt;conditions a system can be in.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The terms here do not explain causes, prescribe actions, or suggest improvements.&#xA;They describe &lt;strong&gt;posture, coherence, and structural condition&lt;/strong&gt; as observed in a field.&lt;/p&gt;&#xA;&lt;p&gt;States are not emotions, traits, or outcomes.&#xA;They are &lt;strong&gt;configurations of alignment and stability&lt;/strong&gt; that persist until changed by deeper shifts elsewhere in the system.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;glossary-classification-system&#34;&gt;Glossary Classification System&lt;/h2&gt;&#xA;&lt;p&gt;Glossary terms in CFIM360 are not uniform.&#xA;Each term carries a suffix that declares &lt;strong&gt;how it should be read.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Time</title>
+      <link>http://localhost:1313/glossary/time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/time/</guid>
+      <description>&lt;h2 id=&#34;node-identity&#34;&gt;Node Identity&lt;/h2&gt;&#xA;&lt;p&gt;This node holds terms that describe &lt;strong&gt;how change unfolds across time.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The terms here do not represent schedules, sequences, or progress markers.&#xA;They describe &lt;strong&gt;structural movement, continuity,&lt;/strong&gt; and &lt;strong&gt;recurrence&lt;/strong&gt; as properties of living systems.&lt;/p&gt;&#xA;&lt;p&gt;Time in CFIM is not linear by default.&#xA;Change is understood through &lt;strong&gt;patterns of return, decay, and renewal,&lt;/strong&gt; not forward accumulation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;glossary-classification-system&#34;&gt;Glossary Classification System&lt;/h2&gt;&#xA;&lt;p&gt;Glossary terms in CFIM360 are not uniform.&#xA;Each term carries a suffix that declares &lt;strong&gt;how it should be read.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
