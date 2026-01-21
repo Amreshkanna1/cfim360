@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Provenance on CFIM360°</title>
-    <link>http://localhost:1313/provenance/</link>
+    <link>https://cfim360.com/provenance/</link>
     <description>Recent content in Provenance on CFIM360°</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/provenance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cfim360.com/provenance/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
