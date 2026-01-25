@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Linear Closure vs Recursive Coherence</title>
+      <link>http://localhost:1313/case-studies/cp/cp-cs-002/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/case-studies/cp/cp-cs-002/</guid>
+      <description>&lt;div class=&#34;doc-cover&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;img&#xD;&#xA;src=&#34;http://localhost:1313/case-studies/cp/cp-covers/CS002.webp&#34;&#xD;&#xA;alt=&#34;CS001 cover image&#34;&#xD;&#xA;class=&#34;doc-cover-image&#34;&#xD;&#xA;/&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;linear-closure-vs-recursive-coherence&#34;&gt;Linear Closure vs Recursive Coherence&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-diagnostic-case-study-of-cognitive-load-decision-triggers-and-control-failure&#34;&gt;A Diagnostic Case Study of Cognitive Load, Decision Triggers, and Control Failure&lt;/h3&gt;&#xA;&lt;h4 id=&#34;an-invariant-exposure-across-human-and-machine-cognition-under-recursive-pressure&#34;&gt;An invariant exposure across human and machine cognition under recursive pressure&lt;/h4&gt;&#xA;&lt;p class=&#34;doc-title&#34;&gt;&#xD;&#xA;Cognitive Physics in Real Conditions&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;doc-meta&#34;&gt;&#xD;&#xA;Case Study · Cognitive Physics · CFIM360°&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;doc-boundary&#34;&gt;&#xD;&#xA;This document records cognitive physics as it manifested under real-world conditions. It does not explain methods, provide instruction, or offer interpretation. All observations are preserved as recorded.&#xD;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Runaway Motion: Why Systems Accelerate Even When Direction Is Wrong</title>
       <link>http://localhost:1313/articles/ec/series-2/ec-005/</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0530</pubDate>

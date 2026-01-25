@@ -94,6 +94,34 @@ a {
 a:active{
   color: #84D574;
 }
+
+/* Target the Hugo/Static auto-generated ID directly */
+.page-outline #TableOfContents {
+    display: block;             /* Ensure it's a block-level element */
+    max-height: 60vh;           /* Constrain the visible height */
+    overflow-y: auto;           /* Trigger the internal scroll */
+    padding-right: 10px;        /* Space for the new scrollbar */
+    
+    /* Zero Noise Scrollbar for Firefox */
+    scrollbar-width: thin;
+    scrollbar-color: #d6d6d6 transparent; 
+}
+
+/* High-Resolution Scrollbar for Chrome/Safari/Edge */
+#TableOfContents::-webkit-scrollbar {
+    width: 3px;                 /* Precision thinness */
+}
+
+#TableOfContents::-webkit-scrollbar-thumb {
+    background-color: #efefef;   /* Your Recursive Blue */
+    border-radius: 10px;
+}
+
+#TableOfContents::-webkit-scrollbar-track {
+    background: transparent;    /* Keep the background invisible for Zero Noise */
+}
+
+
 /* ==========================================================================
    4. LAYOUT COMPONENTS
    ========================================================================== */
@@ -288,6 +316,8 @@ details[open] .arrow {
   list-style: none;
   padding: 0;
   margin: 0;
+    scrollbar-color: orange;
+  scrollbar-width: thin;
 }
 
 .page-outline li {
