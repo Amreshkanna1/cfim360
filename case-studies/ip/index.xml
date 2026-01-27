@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Inner Physics — Case Studies on CFIM360°</title>
-    <link>https://cfim360.com/case-studies/ip/</link>
-    <description>Recent content in Inner Physics — Case Studies on CFIM360°</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://cfim360.com/case-studies/ip/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Inner Physics Case Studies</title>
-      <link>https://cfim360.com/case-studies/ip/ip-cs-001/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cfim360.com/case-studies/ip/ip-cs-001/</guid>
-      <description>&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;&#xA;&lt;p&gt;No case studies are currently recorded in this domain.&lt;/p&gt;&#xA;&lt;p&gt;This page exists to hold empirical records when real conditions produce sufficient signal.&lt;/p&gt;&#xA;&lt;p&gt;No inference should be made from the absence of entries.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Inner Physics — Case Studies on CFIM360°</title><link>https://cfim360.com/case-studies/ip/</link><description>Recent content in Inner Physics — Case Studies on CFIM360°</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://cfim360.com/case-studies/ip/index.xml" rel="self" type="application/rss+xml"/><item><title>Inner Physics Case Studies</title><link>https://cfim360.com/case-studies/ip/ip-cs-001/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cfim360.com/case-studies/ip/ip-cs-001/</guid><description>&lt;h2 id="status"&gt;Status&lt;/h2&gt;
+&lt;p&gt;No case studies are currently recorded in this domain.&lt;/p&gt;
+&lt;p&gt;This page exists to hold empirical records when real conditions produce sufficient signal.&lt;/p&gt;
+&lt;p&gt;No inference should be made from the absence of entries.&lt;/p&gt;
+&lt;hr&gt;</description></item></channel></rss>
