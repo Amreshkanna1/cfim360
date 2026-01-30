@@ -1,26 +1,40 @@
 # ==========================================================
-# CFIM360° | SOVEREIGN ARCHITECTURE PROTOCOL (REFINED)
+# CFIM360° | SOVEREIGN ARCHITECTURE PROTOCOL v2.0
+# ==========================================================
+# STATUS: FILTERED_ACCESS_ACTIVE
+# GOAL: VALIDATE RECORD / DENY HYENAS
 # ==========================================================
 
+# 1. ALLOW SEARCH ENGINES (The Global Record)
+# We allow indexing so descriptions display correctly.
 User-agent: Googlebot
 User-agent: Bingbot
 Allow: /
-Disallow: /*?* # Block search parameter ghosts
+Disallow: /*?* # Block search parameter "ghosts"
 Disallow: /admin/
 Disallow: /private/
 
-# BLOCK AI & SCRAPERS
-User-agent: GPTBot
-User-agent: ChatGPT-User
-User-agent: ClaudeBot
+# 2. THE HARD BLOCK: AI TRAINING & SCRAPERS (The Hyenas)
+# These bots are forbidden from all directories.
+User-agent: Google-Extended   # Specifically blocks Gemini/Vertex AI
+User-agent: GPTBot            # Blocks OpenAI Training
+User-agent: ChatGPT-User      # Blocks ChatGPT Browsing
+User-agent: ClaudeBot         # Blocks Anthropic
+User-agent: Claude-Web
 User-agent: PerplexityBot
-User-agent: Google-Extended
-User-agent: CCBot
+User-agent: CCBot             # Common Crawl (Massive AI Training Data)
+User-agent: meta-externalagent
+User-agent: OAI-Searchbot
+User-agent: Applebot-Extended
 Disallow: /
 
-# GLOBAL FALLBACK
+# 3. GLOBAL FALLBACK
 User-agent: *
 Crawl-delay: 10
 Disallow: /admin/
 Disallow: /private/
-Disallow: /404.html    # Hugo clean-up
+Disallow: /404.html
+
+# ==========================================================
+# END PROTOCOL: DATA IS SOVEREIGN.
+# ==========================================================
