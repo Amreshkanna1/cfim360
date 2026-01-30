@@ -1,19 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Somatic Physics — Case Studies on CFIM360°</title>
-    <link>https://cfim360.com/case-studies/sp/</link>
-    <description>Recent content in Somatic Physics — Case Studies on CFIM360°</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://cfim360.com/case-studies/sp/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Somatic Collapse as Downstream Execution Failure</title>
-      <link>https://cfim360.com/case-studies/sp/sp-cs-001/</link>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0530</pubDate>
-      <guid>https://cfim360.com/case-studies/sp/sp-cs-001/</guid>
-      <description>&lt;div class=&#34;doc-cover&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;img&#xD;&#xA;src=&#34;https://cfim360.com/case-studies/sp/sp-covers/CS001.webp&#34;&#xD;&#xA;alt=&#34;CS001 cover image&#34;&#xD;&#xA;class=&#34;doc-cover-image&#34;&#xD;&#xA;/&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;cs001---somatic-collapse-as-downstream-execution-failure&#34;&gt;CS001 - Somatic Collapse as Downstream Execution Failure&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-substrate-diagnosis-of-why-bodies-fail-when-upstream-resolution-and-signal-coherence-break&#34;&gt;A substrate diagnosis of why bodies fail when upstream resolution and signal coherence break.&lt;/h3&gt;&#xA;&lt;p class=&#34;doc-title&#34;&gt;&#xD;&#xA;Somatic Physics in Real Conditions&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;doc-meta&#34;&gt;&#xD;&#xA;Case Study · Somatic Physics · CFIM360&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;doc-boundary&#34;&gt;&#xD;&#xA;This document records somatic physics as it manifested under real-world conditions.&#xD;&#xA;It does not explain methods, provide instruction, or offer interpretation.&#xD;&#xA;All observations are preserved as recorded.&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;&#xA;&lt;p&gt;This case study documents a &lt;strong&gt;deterministic failure pattern in how somatic behavior is interpreted within human systems.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Somatic Physics — Case Studies on CFIM360°</title><link>https://cfim360.com/case-studies/sp/</link><description>Recent content in Somatic Physics — Case Studies on CFIM360°</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0530</lastBuildDate><atom:link href="https://cfim360.com/case-studies/sp/index.xml" rel="self" type="application/rss+xml"/><item><title>Somatic Collapse as Downstream Execution Failure</title><link>https://cfim360.com/case-studies/sp/sp-cs-001/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0530</pubDate><guid>https://cfim360.com/case-studies/sp/sp-cs-001/</guid><description>&lt;div class="doc-cover"&gt;
+&lt;p&gt;&lt;img
+src="https://cfim360.com/case-studies/sp/sp-covers/CS001.webp"
+alt="CS001 cover image"
+class="doc-cover-image"
+/&gt;&lt;/p&gt;
+&lt;h2 id="cs001---somatic-collapse-as-downstream-execution-failure"&gt;CS001 - Somatic Collapse as Downstream Execution Failure&lt;/h2&gt;
+&lt;h3 id="a-substrate-diagnosis-of-why-bodies-fail-when-upstream-resolution-and-signal-coherence-break"&gt;A substrate diagnosis of why bodies fail when upstream resolution and signal coherence break.&lt;/h3&gt;
+&lt;p class="doc-title"&gt;
+Somatic Physics in Real Conditions
+&lt;/p&gt;
+&lt;p class="doc-meta"&gt;
+Case Study · Somatic Physics · CFIM360
+&lt;/p&gt;
+&lt;p class="doc-boundary"&gt;
+This document records somatic physics as it manifested under real-world conditions.
+It does not explain methods, provide instruction, or offer interpretation.
+All observations are preserved as recorded.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="executive-summary"&gt;Executive Summary&lt;/h2&gt;
+&lt;p&gt;This case study documents a &lt;strong&gt;deterministic failure pattern in how somatic behavior is interpreted within human systems.&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>

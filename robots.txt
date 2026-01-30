@@ -1,53 +1,26 @@
 # ==========================================================
-# CFIM360° | SOVEREIGN ARCHITECTURE PROTOCOL
-# ==========================================================
-# STATUS: DEFENSE_ACTIVE
-# NOTE: COHERENCE REQUIRED FOR ENTRY.
+# CFIM360° | SOVEREIGN ARCHITECTURE PROTOCOL (REFINED)
 # ==========================================================
 
-# 1. ALLOW SEARCH ENGINES (The Global Record)
-# We allow indexing for public validation and permanent record.
 User-agent: Googlebot
-Allow: /
-
 User-agent: Bingbot
 Allow: /
+Disallow: /*?* # Block search parameter ghosts
+Disallow: /admin/
+Disallow: /private/
 
-# 2. BLOCK AI TRAINING & SCRAPERS (The Hyenas)
-# We deny access to entities that consume without contributing.
+# BLOCK AI & SCRAPERS
 User-agent: GPTBot
-Disallow: /
-
 User-agent: ChatGPT-User
-Disallow: /
-
 User-agent: ClaudeBot
-Disallow: /
-
-User-agent: Claude-Web
-Disallow: /
-
 User-agent: PerplexityBot
-Disallow: /
-
+User-agent: Google-Extended
 User-agent: CCBot
 Disallow: /
 
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: meta-externalagent
-Disallow: /
-
-# 3. GLOBAL FALLBACK
-# General bots are delayed to preserve resources.
+# GLOBAL FALLBACK
 User-agent: *
 Crawl-delay: 10
 Disallow: /admin/
 Disallow: /private/
-
-# ==========================================================
-# END PROTOCOL: BURN RESOURCES ELSEWHERE.
-# ==========================================================
-
-Sitemap: https://cfim360.com/sitemap.xml
+Disallow: /404.html    # Hugo clean-up
